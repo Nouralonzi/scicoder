@@ -202,7 +202,7 @@ for i in range(len(RC3_PGC)):
 
 #print Wzsti_EDD
 
-Noura
+
 
 ##################### ERROR CALCULATION ##################################
 
